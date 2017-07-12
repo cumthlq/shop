@@ -8,7 +8,7 @@ import com.shop.product.vo.Product;
 
 /**
  * 二级分类的实体
- * @author 
+
  *
  */
 public class CategorySecond {

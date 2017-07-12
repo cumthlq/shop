@@ -5,7 +5,7 @@ import com.shop.product.vo.Product;
 
 /**
  * 订单项目实体
- * @author 
+
  *
  *
  */

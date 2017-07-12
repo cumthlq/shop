@@ -7,7 +7,7 @@ import com.shop.order.vo.Order;
 
 /**
  * 用户名模块实体类:
- * @author 
+
  *CREATE TABLE `user` (
   `uid` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(255) DEFAULT NULL,

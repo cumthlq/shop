@@ -7,12 +7,7 @@ import com.shop.adminuser.vo.AdminUser;
 
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
-/**
- * 后台用户action
- * 
- * @author 
- * 
- */
+
 public class AdminUserAction extends ActionSupport implements
 		ModelDriven<AdminUser> {
 	// 模型驱动使用的对象

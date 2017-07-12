@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 分页类的封装
- * @author 
+
  *
  */
 public class PageBean<T> {

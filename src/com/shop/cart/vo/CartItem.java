@@ -4,7 +4,7 @@ import com.shop.product.vo.Product;
 
 /**
  * 购物项对象
- * @author 
+
  *
  */
 public class CartItem {

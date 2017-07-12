@@ -9,7 +9,7 @@ import com.shop.order.vo.OrderItem;
 import com.shop.utils.PageHibernateCallback;
 /**
  * 订单dao 
- * @author 
+
  *
  */
 public class OrderDao extends HibernateDaoSupport {

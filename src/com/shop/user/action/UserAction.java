@@ -15,7 +15,7 @@ import com.opensymphony.xwork2.ModelDriven;
 /**
  * 用户模块Action的类
  * 
- * @author 
+
  * 
  */
 public class UserAction extends ActionSupport implements ModelDriven<User> {

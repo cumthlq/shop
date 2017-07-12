@@ -16,7 +16,7 @@ import javax.mail.internet.MimeMessage;
 
 /**
  * 邮件发送工具类
- * @author 
+ 
  *
  */
 public class MailUitls {

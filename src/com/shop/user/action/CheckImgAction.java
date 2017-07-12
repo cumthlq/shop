@@ -16,7 +16,7 @@ import com.opensymphony.xwork2.ActionSupport;
 /**
  * 验证码Action类
  * 
- * @author 
+
  * 
  */
 public class CheckImgAction extends ActionSupport {

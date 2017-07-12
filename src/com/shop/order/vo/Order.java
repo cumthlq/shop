@@ -27,7 +27,7 @@ import com.shop.user.vo.User;
 
 /**
  * 订单实体
- * @author 
+
  */
 public class Order {
 	private Integer oid;

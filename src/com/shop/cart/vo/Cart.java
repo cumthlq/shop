@@ -8,8 +8,7 @@ import java.util.Map;
 /**
  * 购物车对象
  * 
- * @author 
- * 
+
  */
 public class Cart implements Serializable{
 	// 购物车属性

@@ -8,7 +8,7 @@ import com.shop.categorysecond.vo.CategorySecond;
 
 /**
  * 一级分类的实体类对象
- * @author 
+
  *
  */
 public class Category implements Serializable{

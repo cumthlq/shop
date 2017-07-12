@@ -3,7 +3,7 @@ package com.shop.adminuser.vo;
 /**
  * 后台用户登录实体
  * 
- * @author 
+
  * 
  */
 public class AdminUser {

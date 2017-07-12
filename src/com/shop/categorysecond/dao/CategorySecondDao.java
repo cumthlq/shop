@@ -10,7 +10,7 @@ import com.shop.utils.PageHibernateCallback;
 /**
  * 二级分类的Dao层的代码
  * 
- * @author 
+
  * 
  */
 public class CategorySecondDao extends HibernateDaoSupport {

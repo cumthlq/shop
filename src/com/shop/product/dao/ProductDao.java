@@ -17,7 +17,7 @@ import com.shop.utils.PageHibernateCallback;
 /**
  * 商品持久层的代码
  * 
- * @author 
+
  * 
  */
 public class ProductDao extends HibernateDaoSupport {

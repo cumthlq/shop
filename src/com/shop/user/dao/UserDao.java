@@ -10,7 +10,7 @@ import com.shop.utils.PageHibernateCallback;
 /**
  * 用户模块持久层代码:
  * 
- * @author 
+
  * 
  */
 public class UserDao extends HibernateDaoSupport {

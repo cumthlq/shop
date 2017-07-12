@@ -6,7 +6,7 @@ import com.shop.categorysecond.vo.CategorySecond;
 
 /**
  * 商品的实体对象
- * @author 
+
  *
  */
 public class Product {

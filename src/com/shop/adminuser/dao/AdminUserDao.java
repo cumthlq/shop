@@ -8,7 +8,7 @@ import com.shop.adminuser.vo.AdminUser;
 /**
  * 后台用户dao
  * 
- * @author 
+
  * 
  */
 public class AdminUserDao extends HibernateDaoSupport{
